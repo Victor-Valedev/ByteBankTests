@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+
+# Logs
+*.log
+logs/
+
+# Prettier config
+.prettier/
+
+# Dependências do editor
+.vscode/
+.idea/
+
+# Arquivos de build
+/dist/
+/build/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# GitHub
+.github/
+
+# Arquivos de cache
+.cache/
+npm-debug.log*
+
+# Arquivos do sistema de operação
+*.bak
+*.orig
+
+
+
