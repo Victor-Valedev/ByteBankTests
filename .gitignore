@@ -25,7 +25,7 @@ logs/
 .env
 .env.local
 .env.*.local
-cypress.env.json
+cypress.env.json 
 
 # Arquivos temporários
 *.tmp
